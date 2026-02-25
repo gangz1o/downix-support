@@ -1,2 +1,0 @@
-# seedpilot-support
-issues feedback
